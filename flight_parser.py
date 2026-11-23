@@ -15,7 +15,6 @@ from csv_loader import parse_files
 from query import run_queries
 from validator import load_airports
 
-# TODO: STUDENT_ID ni o'zingizning haqiqiy ID raqamingizga almashtiring!
 STUDENT_ID = "251ADB079"
 FIRST_NAME = "Tokhirbek"
 LAST_NAME = "Akramov"
