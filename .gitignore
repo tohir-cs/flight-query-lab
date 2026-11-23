@@ -3,3 +3,4 @@ __pycache__/
 db.json
 errors.log
 response_*.json
+.DS_Store
